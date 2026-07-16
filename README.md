@@ -8,7 +8,7 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Project-success?style=for-the-badge)
 
-A fully featured **desktop Hotel Management System** built with **Java Swing** and **MySQL**, developed as a 2nd Semester Object-Oriented Programming (OOP) Lab project. The system supports dual-role access (Admin & Customer), real-time room booking, food ordering, payment processing, and full CRUD operations — all through a polished, interactive GUI.
+A fully featured **desktop Hotel Management System** built with **Java Swing** and **MySQL**, developed as a Object-Oriented Programming (OOP) project. The system supports dual-role access (Admin & Customer), real-time room booking, food ordering, payment processing, and full CRUD operations — all through a polished, interactive GUI.
 
 </div>
 
@@ -191,13 +191,43 @@ Download the [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) a
 
 ---
 
-## 🤝 Contributing
+## 📄 License
 
-This is an academic project. Feel free to fork it, extend it, or use it as a reference for your own OOP assignments.
+```
+MIT License
+
+Copyright (c) Hotel Management System Java ---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
 
 ---
 
 ## 👨‍💻 Author
 
-**Anas Qayyum**
-- GitHub: [@AnasQ2003](https://github.com/AnasQ2003)
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
+
+---
+
+<div align="center">
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
+
+Made with 🔥 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+</div>
