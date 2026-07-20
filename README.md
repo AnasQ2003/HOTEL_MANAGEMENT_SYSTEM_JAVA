@@ -1,6 +1,6 @@
-# 🏨 Hotel Management System — Java
-
 <div align="center">
+
+# 🏨 Hotel Management System — Java
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
@@ -28,12 +28,9 @@ A fully featured **desktop Hotel Management System** built with **Java Swing** a
     <td align="center"><img src="screenshots/manage room.jpg" width="300"/><br/><b>Manage Rooms</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/customer registration and check in.png" width="300"/><br/><b>Customer Check-In</b></td>
+     <td align="center"><img src="screenshots/log out.png" width="300"/><br/><b>Logout</b></td>
     <td align="center"><img src="screenshots/customer check out.png" width="300"/><br/><b>Customer Check-Out</b></td>
     <td align="center"><img src="screenshots/customer detail bill.png" width="300"/><br/><b>Detailed Bill</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/log out.png" width="300"/><br/><b>Logout</b></td>
   </tr>
 </table>
 
@@ -180,23 +177,12 @@ Download the [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) a
 
 ---
 
-## 📚 Course Context
-
-| Detail | Info |
-|---|---|
-| **Course** | Object-Oriented Programming (OOP) |
-| **Semester** | 2nd Semester |
-| **Lab Project** | Hotel Management System |
-| **Key Concepts** | Encapsulation, Inheritance, Polymorphism, Abstraction, JDBC, MVC |
-
----
-
 ## 📄 License
 
 ```
 MIT License
 
-Copyright (c) Hotel Management System Java ---2026 AnasQ2003
+Copyright (c) Hotel Management System Java --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
