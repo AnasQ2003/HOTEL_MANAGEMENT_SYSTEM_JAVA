@@ -182,7 +182,7 @@ Download the [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) a
 ```
 MIT License
 
-Copyright (c) Hotel Management System Java --- 2026 AnasQ2003
+Copyright (c) Hotel Management System Java --- 2026 AnasQ2003🏨
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
